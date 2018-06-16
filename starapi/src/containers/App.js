@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import ContentView from './contentView';
+import ContentView from '../components/contentView';
 import "./App.css" ;
 
 class App extends Component {
